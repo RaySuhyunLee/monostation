@@ -1,0 +1,16 @@
+{
+  "name": "monostation",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^1.4.7",
+    "electron-rebuild": "^1.4.0"
+  },
+  "dependencies": {
+    "serialport": "^4.0.6"
+  }
+}
